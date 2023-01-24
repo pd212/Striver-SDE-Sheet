@@ -11,6 +11,7 @@ public class Solution {
 		int top = st.pop();
 		sorted(st,x);
 		st.push(top);
+        
 	}
 	public static void sortStack(Stack<Integer> stack) {
 		// Write your code here.
