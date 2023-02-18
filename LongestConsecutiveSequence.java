@@ -1,5 +1,5 @@
 import java.util.HashSet;
-
+import java.util.*;
 class Solution {
     public int longestConsecutive(int[] nums) {
         HashSet<Integer>hs=new HashSet<Integer>();
